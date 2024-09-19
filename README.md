@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blackstone)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/945045644966498315)](https://discord.com/users/945045644966498315)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/945045644966498315)](https://discord.com/users/945045644966498315)![blackstone GitHub Stats](https://github-readme-stats.vercel.app/api?username=vichada&show_icons=true) 
 
 ![blackstone GitHub Stats](https://github-readme-stats.vercel.app/api?username=vichada&show_icons=true) 
  
